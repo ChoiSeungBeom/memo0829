@@ -12,3 +12,5 @@ git branch -M master - master branch 생성
 github(checkout) - 다른 branch로 이동
 
 github(readme파일 변경시)- git pull origin 브랜치명 후 -> git push origin 브랜치명
+
+W3 School -> 언어 공부 사이트
